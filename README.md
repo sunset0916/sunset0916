@@ -12,5 +12,5 @@
 <img alt="status" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunset0916&theme=default" />
 
 <a href="https://twitter.com/sunset09160306">Twitter</a>　
-<a href="https://submarin.online/@sunset">Misskey</a>　
+<a href="https://mi.sunset0916.net/@sunset">Misskey</a>　
 <a href="https://sunset0916.net">クソサイト</a>
