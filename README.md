@@ -13,4 +13,4 @@
 
 <a href="https://twitter.com/sunset09160306">Twitter</a>　
 <a href="https://mi.sunset0916.net/@sunset">Misskey</a>　
-<a href="https://sunset0916.net">クソサイト</a>
+<a href="https://sunset0916.net">ホームページ</a>
